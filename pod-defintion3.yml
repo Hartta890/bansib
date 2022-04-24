@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
- name: jenkins-Pod
+ name: jenkins
  labels: 
   type: ci-cd
   author: intelliqit
