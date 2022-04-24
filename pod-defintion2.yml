@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
- name: postgress-Pod
+ name: postgress
  labels:
   type: db
   author: intelliqit
